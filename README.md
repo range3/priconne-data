@@ -9,5 +9,5 @@ $ npm i @range3/priconne-data
 ### Characters
 ```js
 const characters = require('@range3/priconne-data/dist/characters')
-const characterNames = require('@range3/priconne-data/dist/character-names)
+const characterNames = require('@range3/priconne-data/dist/character-names')
 ```
