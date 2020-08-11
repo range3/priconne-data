@@ -1,0 +1,1 @@
+exports.characters = require('./characters')
