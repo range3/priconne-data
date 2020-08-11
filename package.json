@@ -1,6 +1,6 @@
 {
   "name": "@range3/priconne-data",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "PrincessConnect! Re:Dive Open Data",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "git+ssh://git@github.com/range3/priconne-data.git"
   },
   "author": "range3 (https://github.com/range3/)",
-  "license": "MIT",
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/range3/priconne-data/issues"
   },
