@@ -1,6 +1,6 @@
 {
   "name": "@range3/priconne-data",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "PrincessConnect! Re:Dive Open Data",
   "main": "src/index.js",
   "scripts": {

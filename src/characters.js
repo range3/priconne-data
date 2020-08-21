@@ -120,6 +120,12 @@ module.exports = [
     hasSpecialEquipment: true,
   },
   {
+    id: 'jun-summer',
+    name: 'ジュン(サマー)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'matsuri',
     name: 'マツリ',
     maxStar: 5,
