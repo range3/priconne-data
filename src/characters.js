@@ -110,7 +110,7 @@ module.exports = [
   {
     id: 'akino',
     name: 'アキノ',
-    maxStar: 5,
+    maxStar: 6,
     hasSpecialEquipment: true,
   },
   {
@@ -374,7 +374,7 @@ module.exports = [
   {
     id: 'saren',
     name: 'サレン',
-    maxStar: 5,
+    maxStar: 6,
     hasSpecialEquipment: true,
   },
   {
@@ -420,6 +420,18 @@ module.exports = [
     hasSpecialEquipment: true,
   },
   {
+    id: 'akari-angel',
+    name: 'アカリ(エンジェル)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
+    id: 'yori-angel',
+    name: 'ヨリ(エンジェル)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'kokkoro-summer',
     name: 'コッコロ(サマー)',
     maxStar: 5,
@@ -446,6 +458,12 @@ module.exports = [
   {
     id: 'kokkoro-princess',
     name: 'コッコロ(プリンセス)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
+    id: 'labyrista',
+    name: 'ラビリスタ',
     maxStar: 5,
     hasSpecialEquipment: false,
   },
