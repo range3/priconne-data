@@ -36,6 +36,12 @@ module.exports = [
     hasSpecialEquipment: true,
   },
   {
+    id: 'tsumugi-halloween',
+    name: 'ツムギ(ハロウィン)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'rei-new-year',
     name: 'レイ(ニューイヤー)',
     maxStar: 5,
@@ -93,7 +99,7 @@ module.exports = [
     id: 'kaya',
     name: 'カヤ',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'hiyori-new-year',
@@ -136,6 +142,12 @@ module.exports = [
     name: 'クロエ',
     maxStar: 5,
     hasSpecialEquipment: true,
+  },
+  {
+    id: 'matsuri-halloween',
+    name: 'マツリ(ハロウィン)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
   },
   {
     id: 'eriko-valentine',
@@ -306,6 +318,12 @@ module.exports = [
     hasSpecialEquipment: false,
   },
   {
+    id: 'rei-halloween',
+    name: 'レイ(ハロウィン)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'sizuru-valentine',
     name: 'シズル(バレンタイン)',
     maxStar: 5,
@@ -338,7 +356,7 @@ module.exports = [
   {
     id: 'ninon',
     name: 'ニノン',
-    maxStar: 5,
+    maxStar: 6,
     hasSpecialEquipment: true,
   },
   {
@@ -657,7 +675,7 @@ module.exports = [
     id: 'luna',
     name: 'ルナ',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'yui-princess',
