@@ -338,6 +338,12 @@ module.exports = [
   {
     id: 'mahiru',
     name: 'マヒル',
+    maxStar: 6,
+    hasSpecialEquipment: true,
+  },
+  {
+    id: 'tomo-magical',
+    name: 'トモ(マジカル)',
     maxStar: 5,
     hasSpecialEquipment: true,
   },
@@ -438,6 +444,12 @@ module.exports = [
     hasSpecialEquipment: true,
   },
   {
+    id: 'monika-magical',
+    name: 'モニカ(マジカル)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'akari-angel',
     name: 'アカリ(エンジェル)',
     maxStar: 5,
@@ -459,13 +471,13 @@ module.exports = [
     id: 'remu',
     name: 'レム',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'ramu',
     name: 'ラム',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'rin',
@@ -615,7 +627,7 @@ module.exports = [
     id: 'emiria',
     name: 'エミリア',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'kasumi',
