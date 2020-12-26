@@ -36,6 +36,12 @@ module.exports = [
     hasSpecialEquipment: true,
   },
   {
+    id: 'saren-xmas',
+    name: 'サレン(クリスマス)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'tsumugi-halloween',
     name: 'ツムギ(ハロウィン)',
     maxStar: 5,
@@ -156,6 +162,12 @@ module.exports = [
     hasSpecialEquipment: true,
   },
   {
+    id: 'akino-xmas',
+    name: 'アキノ(クリスマス)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'ayane-xmas',
     name: 'アヤネ(クリスマス)',
     maxStar: 5,
@@ -261,7 +273,7 @@ module.exports = [
     id: 'iriya-xmas',
     name: 'イリヤ(クリスマス)',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'anna-summer',
@@ -273,7 +285,7 @@ module.exports = [
     id: 'christina-xmas',
     name: 'クリスティーナ(クリスマス)',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'sizuru',
@@ -354,6 +366,12 @@ module.exports = [
     hasSpecialEquipment: true,
   },
   {
+    id: 'yukari-xmas',
+    name: 'ユカリ(クリスマス)',
+    maxStar: 5,
+    hasSpecialEquipment: false,
+  },
+  {
     id: 'monika',
     name: 'モニカ',
     maxStar: 5,
@@ -369,7 +387,7 @@ module.exports = [
     id: 'nozomi-xmas',
     name: 'ノゾミ(クリスマス)',
     maxStar: 5,
-    hasSpecialEquipment: false,
+    hasSpecialEquipment: true,
   },
   {
     id: 'mifuyu',
@@ -578,7 +596,7 @@ module.exports = [
   {
     id: 'suzuna',
     name: 'スズナ',
-    maxStar: 5,
+    maxStar: 6,
     hasSpecialEquipment: true,
   },
   {
